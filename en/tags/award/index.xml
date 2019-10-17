@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Award on Moinworld</title>
+    <link>https://moinworld.de/en/tags/award/</link>
+    <description>Recent content in Award on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 13 Jan 2019 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/en/tags/award/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IT Executive Club presents ITEC Cares Award 2019 and honors moinworld </title>
+      <link>https://moinworld.de/en/blog/2019/01/13/itec-cares-award/</link>
+      <pubDate>Sun, 13 Jan 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2019/01/13/itec-cares-award/</guid>
+      <description>The award honours initiatives that introduce information technology topics in schools, vocational training and universities. &amp;ldquo;The IT skills shortage is hampering innovation, digitisation and growth in the Hamburg metropolitan region,&amp;rdquo; says Raphael Vaino, explaining the background to the award, which is therefore looking for initiatives that promote sustained interest and competence among children, young people and young adults.
+moinworld has taken 1st place at this year&amp;rsquo;s &amp;ldquo;ITEC Cares Award&amp;rdquo; of the IT-Executive Club of Hamburg@work.</description>
+    </item>
+    
+  </channel>
+</rss>

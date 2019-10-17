@@ -1,0 +1,44 @@
++++
+title = "JavaScript"
+id = "codeschool_web_js"
+heading_image = "img/banners/javascript.jpg"
+
+heading_image_alt = "Code School"
++++
+
+
+
+{{% coursedescription_highlighttext "Dein Einstieg" %}}
+JavaScript wird in der Webentwicklung dafür genutzt, um HTML und CSS zu erweitern und Inhalte zu verändern und Interaktionen mit dem Benutzer möglich zu machen. JavaScript kann als Programmiersprache darüber hinaus aber auch auf Microcontrollern und Servern eingesetzt werden. Wir lernen in diesem Baustein die grundlegende Funktionsweise kennen anhand eines praktischen Beispiels kennen. 
+{{% /coursedescription_highlighttext  %}}
+
+
+{{% coursedescription_highlighttext "Kursinhalt" %}}
+Füge mehr Funktionalität zu Deiner Webseite hinzu durch JavaScript und die Nutzung der Konsole.
+Lerne Variablen zu nutzen und mit Ihnen zu arbeiten.
+Erstelle Funktionen und binde sie in die Logik Deiner Seite ein. Schritt für Schritt lernen wir neue Möglichkeiten kennen, mit dem User zu interagieren. Dieser Kurs erfordert auch Zeit für das Selbststudium zu Hause. Solltet ihr an einem der Termine nicht teilnehmen können, besteht die Möglichkeit online das Versäumte nachzuholen.
+
+{{% /coursedescription_highlighttext  %}}
+
+{{% coursedescription_highlighttext "Was Du bekommst" %}}
+
+* Ein grundlegendes Verständnis für die Funktionsweise von Programmiersprachen
+* Die Erweiterung Deines eigenen Webprojekts um interaktive Elemente
+* Ein gutes Fundament, um alleine weiter zu machen oder in einer von unseren anderen Klassen
+* Eine Bescheinigung über das, was Du gelernt hast
+* Die Möglichkeit an einem weiterführenden Wochenend-Workshop kostenlos teilzunehmen (Thema Framework AngularJS)
+{{% /coursedescription_highlighttext  %}}
+
+
+{{% coursedescription_highlighttext "Über die Kursleiterin" %}}
+
+Anja Schumann - moinworld e.V. - Anja is die Gründerin unserer Women Techmakers Community in Hamburg. Sie studierte Wirtschaftsinformatik an der Universität in Marburg, als noch das gute alte Diplom vergeben wurde. Das erste Mal fand sie Berührung mit der Web Programmierung, als ihre Gastmutter in den USA ihr einen Computer Science Kurs am Community College in Maryland, USA empfahl. In ihrer Karriere nach dem Studium entschloss sie sich auf der Managementseite zu bleiben und war in verschiedenen Führungsrollen in Unternehmen wie Tchibo und Lenovo tätig. Die Gründung ihres eigenen Start Ups führte sie letztendlich wieder zurück zur Programmierung. Sie ist hier immer noch im Beginner's Mindset, der dabei hilft, Euch das komplexe Thema näher zu bringen.
+
+
+{{% /coursedescription_highlighttext  %}}
+
+
+
+
+
+

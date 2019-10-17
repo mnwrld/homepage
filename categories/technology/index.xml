@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Moinworld</title>
+    <link>https://moinworld.de/categories/technology/</link>
+    <description>Recent content in Technology on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 03 Sep 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vierter Teil: Artificial Intelligence (AI) entmystifiziert</title>
+      <link>https://moinworld.de/blog/2018/09/03/artificial-intelligence-status/</link>
+      <pubDate>Mon, 03 Sep 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2018/09/03/artificial-intelligence-status/</guid>
+      <description>Aktueller Stand von Artificial Intelligence und Herausforderungen Tätigkeiten überflüssig machen, die repetitiv und monoton sind Artificial Intelligence ist begrenzt und wird es bleiben: Um im menschlichen Sinne intelligent zu sein, müsste eine künstliche Intelligenz Schmerz, Leid und Freude empfinden können, statt sie lediglich zu simulieren. Viele Entscheidungen, die Menschen treffen, sind intuitiv und basieren eher auf Gefühlen als auf Fakten. Sie werden sowohl von der Chemie als auch von der Beobachtung bestimmt, die das Bewusstsein zu weit mehr als einem Rechenalgorithmus macht.</description>
+    </item>
+    
+    <item>
+      <title>Dritter Teil: Artificial Intelligence (AI) entmystifiziert</title>
+      <link>https://moinworld.de/blog/2018/08/27/artificial-intelligence-anwendungen/</link>
+      <pubDate>Mon, 27 Aug 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2018/08/27/artificial-intelligence-anwendungen/</guid>
+      <description>Anwendungen von Artificial Intelligence Artificial Intelligence kann Prognosen vergünstigen und verbessern und wird sich daher in vielen Bereichen durchsetzen. In der Medizin kann Artificial Intelligence beispielsweise Millionen von Bildern nach Krebsanzeichen durchsuchen. In der Logistik und Verkehrsplanung kann sie Vorhersagen, über die Entwicklung von Verkehrs- und Warenströmen unter wechselnden Bedingungen treffen (Zukunftsinstitut, 2018).
+Für Unternehmen, die sich fragen, wo man Artificial Intelligence zuerst anwenden sollte, sind als erstes diejenigen Anwendungsfälle zu identifizieren, in denen neuronale Netzwerktechniken (deep Learning) entweder eine höhere Qualität als etablierte Analyseverfahren bieten oder zusätzliche Erkenntnisse und Anwendungen generieren könnten.</description>
+    </item>
+    
+    <item>
+      <title>Zweiter Teil: Artificial Intelligence (AI) entmystifiziert</title>
+      <link>https://moinworld.de/blog/2018/08/18/artificial-intelligence-begriff/</link>
+      <pubDate>Sat, 18 Aug 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2018/08/18/artificial-intelligence-begriff/</guid>
+      <description>Die menschliche Intelligenz simulieren: AI - So schlau wie ein Mensch? Bei der Künstlichen Intelligenz (AI) geht es um die Bildung von Modellen der realen Welt, die in Computeralgorithmen dargestellt werden. Diese Modelle ermöglichen es, intelligentes Verhalten zu nachzubilden, das dem menschlichen Verhalten oder menschlicher Intelligenz ähnelt. Wie eingangs erwähnt, gibt es unterschiedliche Auffassungen vom Begriff AI. Mit AI ist in der modernen Literatur Folgendes gemeint:
+Intelligenzniveau der Maschinen: starke (allgemeine) AI/KI und schwache (schmale) AI/KI Wenn wir von AI/KI sprechen, unterscheiden wir zwischen starker und schwacher AI/KI.</description>
+    </item>
+    
+    <item>
+      <title>Erster Teil: Artificial Intelligence (AI) entmystifiziert</title>
+      <link>https://moinworld.de/blog/2018/08/09/artificial-intelligence/</link>
+      <pubDate>Thu, 09 Aug 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2018/08/09/artificial-intelligence/</guid>
+      <description>Intelligentes Handeln abstrahiert aus Daten Es begann alles mit Lady Lovelace. Die erste Programmiererin der Welt. Schon 1842 dachten Leute über Computer nach und sie schrieb: &amp;ldquo;The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform” (Lovelace, 1842). Lovelace stand der Schaffung künstlicher Intelligenz skeptisch gegenüber. Um der Frage nachzugehen, was es überhaupt bedeutet, wenn Maschinen intelligent werden, wird man schnell feststellen, dass der Begriff häufig nicht einheitlich verwendet wird (Zukunftsinstitut GmbH).</description>
+    </item>
+    
+  </channel>
+</rss>

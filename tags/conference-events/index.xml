@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Events on Moinworld</title>
+    <link>https://moinworld.de/tags/conference-events/</link>
+    <description>Recent content in Conference Events on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 08 Jul 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/tags/conference-events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Women Techmakers Summit 2018</title>
+      <link>https://moinworld.de/blog/2018/07/08/women-techmaker-summit-2018/</link>
+      <pubDate>Sun, 08 Jul 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2018/07/08/women-techmaker-summit-2018/</guid>
+      <description>Connecting women in technology This weekend I had the chance to participate in the Women Techmaker Leads Summit. In case you do not know what Women Techmakers is - it is a Google-led initiative and global program to empower women in the industry. Its aim is to provide visibility, community, and resources for women in technology globally. The initiative has local communities around the world - like ours - that are part of the global community.</description>
+    </item>
+    
+  </channel>
+</rss>

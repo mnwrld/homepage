@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moinworld</title>
+    <link>https://moinworld.de/en/tags/moinworld/</link>
+    <description>Recent content on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 08 Dec 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/en/tags/moinworld/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>moinworld Team Hamburg - Florian</title>
+      <link>https://moinworld.de/en/blog/2018/12/08/florian-team-moinworld/</link>
+      <pubDate>Sat, 08 Dec 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2018/12/08/florian-team-moinworld/</guid>
+      <description>Women Techmakers Hamburg to moinworld Hi I am Florian. I was already a part of the community when it just started out as the Women Techmakers Meetup. I think Diversity is important in any field and I like contributing to making a change. I am a software developer and have been interested in computers since I was a child of around 5 years old. The first topics that caught my interest were computer game, which then made me want to learn more about computers in general.</description>
+    </item>
+    
+    <item>
+      <title>moinworld Team Munich- meet Julia</title>
+      <link>https://moinworld.de/en/blog/2018/11/20/julia-team-moinworld/</link>
+      <pubDate>Tue, 20 Nov 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2018/11/20/julia-team-moinworld/</guid>
+      <description>I was born in Germany, grew up in Denmark and studied in Great Britain. After studying psychology for four years, I did research as a psychologist at a hospital in Copenhagen and quickly realised that it was nothing for me: the work had no impact and was too &amp;lsquo;slow&amp;rsquo; for me. That&amp;rsquo;s when I got in touch with the tech world: I joined the London/Munich Tech Start Up KOMPAS as Community Lead to get a feel for the startup world.</description>
+    </item>
+    
+    <item>
+      <title>moinworld Team - Joyce</title>
+      <link>https://moinworld.de/en/blog/2018/11/02/joyce-team-moinworld/</link>
+      <pubDate>Fri, 02 Nov 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2018/11/02/joyce-team-moinworld/</guid>
+      <description>Hey everybody, I&amp;rsquo;m Joyce Marlen Paquo. As a former student of Gender Studies and Pedagogy, I am studying for a Master&amp;rsquo;s degree in the fields of personnel and management development, career orientation and political consulting. In addition to research, I work in the field of education. And as it is, whether in my studies or at work, the nebulous word &amp;ldquo;digitization&amp;rdquo; is used all over the place. Looking for a voluntary internship, I stumbled across moinworld at the end of 2017 - the perfect combination of my interests (gender &amp;amp; education) and curiosities (IT &amp;amp; startup).</description>
+    </item>
+    
+    <item>
+      <title>What exactly does moinworld do?</title>
+      <link>https://moinworld.de/en/blog/2018/07/17/wer-ist-moinworld/</link>
+      <pubDate>Tue, 17 Jul 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2018/07/17/wer-ist-moinworld/</guid>
+      <description>Moinworld is a non-profit organization. The name moinworld is a hint to &amp;ldquo;Hello World&amp;rdquo;, the first words every program starts with.
+Our goal Our goal is to create a developer community where women and girls have the same opportunities as men to help shape the digital future. We hope that at some point 50% of software development and management positions in tech and IT will be filled by women. We achieve this by strengthening women: Through IT education and the support of a helpful network.</description>
+    </item>
+    
+    <item>
+      <title>Natalia Java Developer from Moscow now teaching you Android Development</title>
+      <link>https://moinworld.de/en/blog/2017/07/13/natalia-moinworld/</link>
+      <pubDate>Thu, 13 Jul 2017 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2017/07/13/natalia-moinworld/</guid>
+      <description>Hi, I am a Java Developer Hi, all! My name is Natalia and I’m a Java Programmer with four years experience in Software Development. I started my career in Moscow being a student. After my graduation from National Research Nuclear University with a specialisation Mathematics and Informatics and I got an opportunity to develop myself into a Java Developer :) After moving to Germany I continued my career.
+I have been interested in Informatics since school and curious about new technologies and approaches in Computer Science.</description>
+    </item>
+    
+  </channel>
+</rss>

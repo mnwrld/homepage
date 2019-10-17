@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moinschool on Moinworld</title>
+    <link>https://moinworld.de/en/tags/moinschool/</link>
+    <description>Recent content in Moinschool on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 19 May 2019 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/en/tags/moinschool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>High school students learn how to code at Hamburg&#39;s schools an update about moinschool </title>
+      <link>https://moinworld.de/en/blog/2019/05/19/moinschool-semester/</link>
+      <pubDate>Sun, 19 May 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2019/05/19/moinschool-semester/</guid>
+      <description>moinschool update, May 2019
+Dear community, it has been a while since our last update about moinschool . In fact, it was beginning this year, if I am not wrong. Of course, this is too long, and we will improve our efforts to present you the newest updates. But let me assure you that we have been very busy in the meantime. A lot has happened, and I am happy to give you a little overview of the things what we accomplished, what we plan for the future and how you can support us.</description>
+    </item>
+    
+    <item>
+      <title>moinschool project goes into the second round</title>
+      <link>https://moinworld.de/en/blog/2019/02/19/moinschool-2019/</link>
+      <pubDate>Tue, 19 Feb 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2019/02/19/moinschool-2019/</guid>
+      <description>moinschool at the district school Alter Teichweg On 06.02.2019 the second round of project moinschool started at another school in Hamburg. moinschool has set the goal to inspire young girls for IT and to show them that technology is not only for boys. Especially during school time, when young people get information about their professional future and are shown their strengths and weaknesses, there are still big hurdles that prevent girls from getting interested in technical professions.</description>
+    </item>
+    
+    <item>
+      <title>Girls learning to code at school - moinschool </title>
+      <link>https://moinworld.de/en/blog/2018/12/19/moinschool-programmierkurs/</link>
+      <pubDate>Wed, 19 Dec 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2018/12/19/moinschool-programmierkurs/</guid>
+      <description>Learn to code in Hamburg&amp;rsquo;s schools We started our project moinschool with one idea in mind: to take away the fear and “I can’t do this” attitude girls have towards technology. As Marrie Curie said, “you don’t have to be afraid, you just have to understand everything”. We wanted to give the girls a chance to understand how programming works, and to encourage them to become creators of their future worlds, not just mere users.</description>
+    </item>
+    
+    <item>
+      <title>moinschool Learning Design Thinking</title>
+      <link>https://moinworld.de/en/blog/2018/11/14/moinschool-design-thinking/</link>
+      <pubDate>Wed, 14 Nov 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2018/11/14/moinschool-design-thinking/</guid>
+      <description>Moinschool started in September to integrate more female students into our community We started our project moinschool in Hamburg at the event TINCON Hamburg where we had a workshop with aluminum boats which illustrated how computer science is about problem solving. To take that a step further, we continued with design thinking session last week back at the school. Design thinking sounds like one of the latest buzz-words, but in reality it is nothing more than problem solving, in a less tranditional sense.</description>
+    </item>
+    
+  </channel>
+</rss>

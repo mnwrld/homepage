@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Moinworld</title>
+    <link>https://moinworld.de/en/tags/</link>
+    <description>Recent content in Tags on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 13 Jan 2019 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Award</title>
+      <link>https://moinworld.de/en/tags/award/</link>
+      <pubDate>Sun, 13 Jan 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>https://moinworld.de/en/tags/conference/</link>
+      <pubDate>Mon, 14 Oct 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference Events</title>
+      <link>https://moinworld.de/en/tags/conference-events/</link>
+      <pubDate>Sun, 08 Jul 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/conference-events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://moinworld.de/en/tags/events/</link>
+      <pubDate>Fri, 06 Sep 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Founder</title>
+      <link>https://moinworld.de/en/tags/founder/</link>
+      <pubDate>Mon, 19 Dec 2016 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/founder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>https://moinworld.de/en/tags/interview/</link>
+      <pubDate>Mon, 11 Mar 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meetup</title>
+      <link>https://moinworld.de/en/tags/meetup/</link>
+      <pubDate>Fri, 06 Sep 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moinschool</title>
+      <link>https://moinworld.de/en/tags/moinschool/</link>
+      <pubDate>Sun, 19 May 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/moinschool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moinworld</title>
+      <link>https://moinworld.de/en/tags/moinworld/</link>
+      <pubDate>Sat, 08 Dec 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/moinworld/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Class</title>
+      <link>https://moinworld.de/en/tags/programming-class/</link>
+      <pubDate>Fri, 19 Jul 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/programming-class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>https://moinworld.de/en/tags/twitter/</link>
+      <pubDate>Mon, 12 Dec 2016 13:50:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

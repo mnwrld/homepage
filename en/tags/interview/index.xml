@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interview on Moinworld</title>
+    <link>https://moinworld.de/en/tags/interview/</link>
+    <description>Recent content in Interview on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 11 Mar 2019 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/en/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Woman in Tech Interview: Mamta Vuppu</title>
+      <link>https://moinworld.de/en/blog/2019/03/11/mamta-vuppu-information-security-consultant-kopie/</link>
+      <pubDate>Mon, 11 Mar 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2019/03/11/mamta-vuppu-information-security-consultant-kopie/</guid>
+      <description>Hi Mamta, could you tell us a little bit about yourself? I’m Mamta Vuppu originally from India settled in Germany. I have been working in the IT industry for over a decade, and I currently work as an information security consultant in Hamburg.
+As an information security consultant my day to day work involves analysing client’s IT environment for any risks or security gaps and implementing solutions based on the industry standards using state of the art technology.</description>
+    </item>
+    
+  </channel>
+</rss>

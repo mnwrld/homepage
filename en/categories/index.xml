@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Moinworld</title>
+    <link>https://moinworld.de/en/categories/</link>
+    <description>Recent content in Categories on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://moinworld.de/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Conference</title>
+      <link>https://moinworld.de/en/categories/conference/</link>
+      <pubDate>Mon, 14 Oct 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn to Code</title>
+      <link>https://moinworld.de/en/categories/learn-to-code/</link>
+      <pubDate>Fri, 19 Jul 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/categories/learn-to-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>https://moinworld.de/en/categories/social/</link>
+      <pubDate>Mon, 12 Dec 2016 13:50:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/categories/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start Ups</title>
+      <link>https://moinworld.de/en/categories/start-ups/</link>
+      <pubDate>Wed, 06 Feb 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/categories/start-ups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://moinworld.de/en/categories/team/</link>
+      <pubDate>Sat, 08 Dec 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/categories/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://moinworld.de/en/categories/technology/</link>
+      <pubDate>Wed, 26 Sep 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women Techmaker</title>
+      <link>https://moinworld.de/en/categories/women-techmaker/</link>
+      <pubDate>Fri, 06 Sep 2019 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/categories/women-techmaker/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter on Moinworld</title>
+    <link>https://moinworld.de/en/tags/twitter/</link>
+    <description>Recent content in Twitter on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 12 Dec 2016 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/en/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Read our latest news tweets</title>
+      <link>https://moinworld.de/en/blog/2016/12/12/women-techmaker-twitter/</link>
+      <pubDate>Mon, 12 Dec 2016 13:50:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2016/12/12/women-techmaker-twitter/</guid>
+      <description>@eVmoinworld on Twitter Tweets by eVmoinworld</description>
+    </item>
+    
+  </channel>
+</rss>

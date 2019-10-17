@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Founder on Moinworld</title>
+    <link>https://moinworld.de/en/tags/founder/</link>
+    <description>Recent content in Founder on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Mon, 19 Dec 2016 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/en/tags/founder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interview with our founder Anja</title>
+      <link>https://moinworld.de/en/blog/2016/12/19/anja-schumann/</link>
+      <pubDate>Mon, 19 Dec 2016 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2016/12/19/anja-schumann/</guid>
+      <description>What is the intention behind women techmakers hamburg? We want to change the IT world in a positive way by encouraging more women and girls to code and supporting them in their careers. Our future is digital and we think that women and men should have the same possibilities in shaping that future. Software changes every industry: agriculture, automobile, retail. It would be a great advantage, if a bigger part of the population could also read and write this code.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Moinworld</title>
+    <link>https://moinworld.de/en/categories/technology/</link>
+    <description>Recent content in Technology on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 26 Sep 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/en/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Summary of our Meetup in Munich around AI and Machine Learning</title>
+      <link>https://moinworld.de/en/blog/2018/09/26/ai-meetup-muc/</link>
+      <pubDate>Wed, 26 Sep 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/en/blog/2018/09/26/ai-meetup-muc/</guid>
+      <description>AI and Machine Learning with Experts from Google, IBM and Siemens Last week we met in Munich to talk more about AI and Machine Learning with Experts from Google, IBM and Siemens.
+Ariane Sutor head of the research group &amp;ldquo;Information Integration &amp;amp; Business Intelligence&amp;rdquo; at Siemens From Siemens we had Ariane Sutor joining us. She is the head of the research group &amp;ldquo;Information Integration &amp;amp; Business Intelligence&amp;rdquo; at Siemens Corporate Technology.</description>
+    </item>
+    
+  </channel>
+</rss>

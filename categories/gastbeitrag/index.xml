@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gastbeitrag on Moinworld</title>
+    <link>https://moinworld.de/categories/gastbeitrag/</link>
+    <description>Recent content in Gastbeitrag on Moinworld</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 14 Jul 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://moinworld.de/categories/gastbeitrag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python für Anfänger - ein Erfahrungsbericht</title>
+      <link>https://moinworld.de/blog/2018/07/14/programmieren-python-bericht/</link>
+      <pubDate>Sat, 14 Jul 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2018/07/14/programmieren-python-bericht/</guid>
+      <description>Wolltest Du schon seit Langem etwas Neues ausprobieren, aber Du hast dich bisher nicht getraut? Arbeitest Du gerne kreativ und lösungsorientiert und suchst nach einem Hobby, bei dem Du Dich beweisen kannst? Hast Du keine Lust mehr darauf, immer nicht mitreden zu können, wenn es um Software und IT geht? Dann geht es Dir so, wie es mir vor 6 Monaten ging.
+Ich verspürte den Drang danach, etwas komplett Neues zu lernen und meiner Leidenschaft für Innovation und Digitalem nachzugehen.</description>
+    </item>
+    
+    <item>
+      <title>Rethinking technology and diversity at moinblockchain 2018</title>
+      <link>https://moinworld.de/blog/2018/04/17/moinblockchain-2018-gastbeitrag/</link>
+      <pubDate>Tue, 17 Apr 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2018/04/17/moinblockchain-2018-gastbeitrag/</guid>
+      <description>My key takeaways Moinworld’s 2018 tech conference in Hamburg brought together experts from all over the world to discuss blockchain technology and to promote women in tech. As a founder and a woman working in media &amp;amp; tech, I have been attending conferences regularly for close to ten years now, and moinblockchain was my highlight for the first half of 2018. I was very fortunate not only to attend, but also to talk to some of the inspiring speakers.</description>
+    </item>
+    
+    <item>
+      <title>Mein Einstieg ins Web Development mit HTML &amp; CSS</title>
+      <link>https://moinworld.de/blog/2018/04/02/lauraw-programmierkurs/</link>
+      <pubDate>Mon, 02 Apr 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2018/04/02/lauraw-programmierkurs/</guid>
+      <description>Erfahren was mit HTML &amp;amp; CSS so möglich ist Im Herbst/Winter 2017 hat moinworld im WeWork Haus am Axel-Springer-Platz einen weiteren Webdevelopment-Kurs für Anfänger angeboten. Ohne viel Vorwissen aber dafür mit umso mehr Interesse bin ich gespannt in den Kurs gestartet. Meine Erwartung war vor allem einen Überblick zu bekommen, was mit HTML und CSS so möglich ist und natürlich auch erste eigenen Versuche zu unternehmen. An 8 Terminen haben wir zusammen mit Anja und anderen moinworld-Professionals die Grundlagen und Zusammenhänge erarbeitet und neue Begriffe wie Responsive Design, Flexbox und SASS kennengelernt.</description>
+    </item>
+    
+    <item>
+      <title>Coden lernen in Hamburg- mein voller Erfahrungsbericht </title>
+      <link>https://moinworld.de/blog/2017/04/19/programmierkurs-in-hamburg-erfahrungsbericht/</link>
+      <pubDate>Wed, 19 Apr 2017 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2017/04/19/programmierkurs-in-hamburg-erfahrungsbericht/</guid>
+      <description>Coden lernen in Hamburg- mein Erfahrungsbericht „Die IT-Branche braucht mehr weibliche Vorbilder“ schrieb die Zeit [1] schon vor über einem Jahr und auch 2017 heißt es noch: „Das Silicon Valley ist männlich und weiß“. Nur 15 Prozent Frauen arbeiten in IT-Berufen. Und nur 23 Prozent Frauen studieren Informatik. Dabei werden Fachkräfte in dem Bereich händeringend gesucht: Laut Bitkom gibt es derzeit rund 41.000 unbesetzte IT-Stellen in Deutschland. Gut bezahlt sind diese Jobs mit einem Anfangsgehalt ab rund 40.</description>
+    </item>
+    
+    <item>
+      <title>The future is female? – Nicht in der IT-Branche</title>
+      <link>https://moinworld.de/blog/2017/03/06/the-future-is-female-nicht-in-der-it-branche/</link>
+      <pubDate>Mon, 06 Mar 2017 13:39:46 +0200</pubDate>
+      
+      <guid>https://moinworld.de/blog/2017/03/06/the-future-is-female-nicht-in-der-it-branche/</guid>
+      <description>The future is female? – Nicht in der IT-Branche „Die IT-Branche braucht mehr weibliche Vorbilder“ schrieb die Zeit [1] schon vor über einem Jahr und auch 2017 heißt es noch: „Das Silicon Valley ist männlich und weiß„. Nur 15 Prozent Frauen arbeiten in IT-Berufen. Und nur 23 Prozent Frauen studieren Informatik. Dabei werden Fachkräfte in dem Bereich händeringend gesucht: Laut Bitkom gibt es derzeit rund 41.000 unbesetzte IT-Stellen in Deutschland.</description>
+    </item>
+    
+  </channel>
+</rss>
